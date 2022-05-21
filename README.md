@@ -9,3 +9,5 @@ The two scripts are:
 
 The script requires the Bot to be created via the Slack Incoming Webhooks service, steps for this can be found here:
 https://api.slack.com/messaging/webhooks
+
+This is a powershell script and it can be runned with the following in the Command Prompt: powershell ./SlackBot_Messanger or ./SlackBot_Reply
